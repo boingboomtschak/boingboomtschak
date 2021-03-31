@@ -4,7 +4,7 @@ My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor
 
 
 <div>
-  <sub width="100vw" text-align="left">Connect with me!</sub>
+  <sub style="width:100vw;" text-align="left">Connect with me!</sub>
   <a href="https://linkedin.com/in/devonmckee"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://devon.engineering"><img alt="Website Badge" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://instagram.com/d.m.c.k.e.e/"><img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" /></a>
