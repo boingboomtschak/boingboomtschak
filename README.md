@@ -1,7 +1,7 @@
 ## Hey! 👋
 
 [![Visitors counter badge](https://komarev.com/ghpvc/?username=d-mckee&color=blue&label=visitors)](https://github.com/antonkomarev/github-profile-views-counter)
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor based in Seattle, WA.
 
