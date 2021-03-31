@@ -1,5 +1,6 @@
 ## Hey! 👋
 
+[![Visitors counter badge](https://komarev.com/ghpvc/?username=d-mckee&color=blue&label=visitors)](https://github.com/antonkomarev/github-profile-views-counter)
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor based in Seattle, WA.
@@ -9,7 +10,7 @@ My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor
   - Web application pentesting!
 - Working on: 
   - Automation [@RhinoSecurityLabs](https://github.com/rhinosecuritylabs)!
-  - Teaching assistantship in data-driven programming with Python @ SeattleU!
+  - Teaching assistantship in data-driven programming with Python @ [SeattleU](https://www.seattleu.edu/)!
   - Various [audiovisual web experiments](https://www.devon.engineering/playground/) on my website!
   - Discord bot to cooperatively learn languages with friends!
 - Pronouns: He/Him/His
