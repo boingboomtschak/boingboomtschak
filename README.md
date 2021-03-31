@@ -16,6 +16,8 @@ My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor
 - Pronouns: He/Him/His
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=d-mckee&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-mckee&layout=compact&langs_count=10&hide=TypeScript,SCSS,CSS,HTML)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **d-mckee/d-mckee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
