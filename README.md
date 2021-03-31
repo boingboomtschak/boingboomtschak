@@ -1,7 +1,5 @@
 ## Hey! 👋
 
-My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor based in Seattle, WA.
-
 <div>
   <sub>Connect with me!</sub>
   <div>
@@ -35,11 +33,14 @@ My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor
   </div>
 </div>
 
+
 <div>
   <a href="https://github.com/ellerbrock/open-source-badges/">
     <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v3/open-source.png?v=103" />
   </a>
 </div>
+
+My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor based in Seattle, WA.
 
 - **Currently learning**:
   - 🔧 Compiler principles and practices!
