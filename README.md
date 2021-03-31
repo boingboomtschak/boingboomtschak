@@ -16,35 +16,32 @@ My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor
   <sub>Connect with me!</sub>
   <div>
     <a href="https://linkedin.com/in/devonmckee">
-      <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://devon.engineering">
-      <img alt="Website Badge" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      <img alt="Website Badge" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
     </a>
     <a href="https://instagram.com/d.m.c.k.e.e/">
-      <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
+      <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" />
     </a>
   </div>
 </div>
-
 <div>
   <sub>Focusing on...</sub>
   <div>
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   </div>
 </div>
-
 <div>
   <sub>Compiling on...</sub>
   <div>
-    <img alt="AMD Ryzen 7 3800X" src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-    <img alt="Nvidia GeForce RTX2080 Super" src="https://img.shields.io/badge/NVIDIA-RTX%202080%20S-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+    <img alt="AMD Ryzen 7 3800X" src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=flat-square&logo=amd&logoColor=white" />
+    <img alt="Nvidia GeForce RTX2080 Super" src="https://img.shields.io/badge/NVIDIA-RTX%202080%20S-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   </div>
 </div>
-
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=d-mckee&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-mckee&layout=compact&langs_count=10&exclude_repo=d-mckee.github.io,resume&hide=TypeScript,SCSS,CSS,HTML)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d-mckee)](https://git.io/streak-stats)
