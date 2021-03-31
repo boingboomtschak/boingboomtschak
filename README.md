@@ -2,15 +2,18 @@
 
 My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor based in Seattle, WA.
 
-Connect with me!
+<sub>Connect with me!</sub>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devonmckee)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devon.engineering)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/d.m.c.k.e.e/)
 
-Focusing on...
+<sub>Focusing on...</sub>
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-
-Compiling on...
+<sub>Compiling on...</sub>
 ![AMD Ryzen 7 3800X](https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Nvidia GeForce RTX2080 Super](https://img.shields.io/badge/NVIDIA-RTX%202080%20S-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
