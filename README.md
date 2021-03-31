@@ -1,6 +1,9 @@
 ## Hey! 👋
 
-[![Visitors counter badge](https://komarev.com/ghpvc/?username=d-mckee&color=blue&label=visitors)](https://github.com/antonkomarev/github-profile-views-counter)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/devonmckee)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://devon.engineering)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/d.m.c.k.e.e/)
+[![Visitors counter badge](https://komarev.com/ghpvc/?username=d-mckee&color=blue&label=visitors&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor based in Seattle, WA.
