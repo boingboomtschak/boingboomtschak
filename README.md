@@ -3,9 +3,11 @@
 My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor based in Seattle, WA.
 
 <sub>Connect with me!</sub>
+<div>
 <a href="https://linkedin.com/in/devonmckee"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://devon.engineering"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://instagram.com/d.m.c.k.e.e/"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
 
 <sub>Focusing on...</sub>
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
