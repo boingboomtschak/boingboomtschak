@@ -42,6 +42,7 @@ My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor
     <img alt="Nvidia GeForce RTX2080 Super" src="https://img.shields.io/badge/NVIDIA-RTX%202080%20S-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   </div>
 </div>
+<br />
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=d-mckee&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-mckee&layout=compact&langs_count=10&exclude_repo=d-mckee.github.io,resume&hide=TypeScript,SCSS,CSS,HTML)](https://github.com/anuraghazra/github-readme-stats)
