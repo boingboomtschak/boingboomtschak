@@ -9,7 +9,7 @@ My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor
 - **Working on**: 
   - 🔬 Research [@TabLabSU](https://github.com/tablabsu)!
   - ⚙️ Automation [@RhinoSecurityLabs](https://github.com/rhinosecuritylabs)!
-  - 🎓 Teaching assistantship in data-driven programming with Python @ [SeattleU](https://www.seattleu.edu/)!
+  - 🎓 Teaching assistantship in data-driven programming with Python [@SeattleU](https://www.seattleu.edu/)!
   - 🎧 Various [audiovisual web experiments](https://www.devon.engineering/playground/) on my website!
 - **Pronouns**: He/They
 
