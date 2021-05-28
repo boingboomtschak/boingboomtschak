@@ -4,6 +4,7 @@ My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor
 
 - **Currently learning**:
   - 🔧 Compiler principles and practices!
+  - 📹 Application of computer vision techniques!
   - 🕶️ Web application pentesting!
 - **Working on**: 
   - 🔬 Research [@TabLabSU](https://github.com/tablabsu)!
