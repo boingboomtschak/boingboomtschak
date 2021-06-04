@@ -3,7 +3,7 @@
 My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor based in Seattle, WA.
 
 - **Currently learning**:
-  - 🖥️ Computer Graphics with OpenGL
+  - 🖥️ Computer graphics with OpenGL
   - 🔧 Compiler principles and practices!
   - 📹 Application of computer vision techniques!
 - **Working on**: 
