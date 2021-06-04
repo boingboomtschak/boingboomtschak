@@ -3,9 +3,9 @@
 My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor based in Seattle, WA.
 
 - **Currently learning**:
+  - 🖥️ Computer Graphics with OpenGL
   - 🔧 Compiler principles and practices!
   - 📹 Application of computer vision techniques!
-  - 🕶️ Web application pentesting!
 - **Working on**: 
   - 🔬 Research [@TabLabSU](https://github.com/tablabsu)!
   - ⚙️ Automation [@RhinoSecurityLabs](https://github.com/rhinosecuritylabs)!
@@ -75,4 +75,6 @@ My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor
     <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v3/open-source.png?v=103" />
   </a>
 </div>
+
+  - 🕶️ Web application pentesting!
 -->
