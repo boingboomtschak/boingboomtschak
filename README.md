@@ -2,16 +2,16 @@
 
 My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor based in Seattle, WA.
 
-- **Currently learning**:
+- **Currently learning about**:
   - 🖥️ Computer graphics with OpenGL
-  - 🔧 Compiler principles and practices!
-  - 📹 Application of computer vision techniques!
+  - 🧫 Application of computer vision techniques for biophysics research!
+  - 📊 Color representation and colorblind-accessible solutions!
 - **Working on**: 
   - 🔬 Research [@TabLabSU](https://github.com/tablabsu)!
   - ⚙️ Automation [@RhinoSecurityLabs](https://github.com/rhinosecuritylabs)!
   - 🎓 Teaching assistantship in data-driven programming with Python [@SeattleU](https://www.seattleu.edu/)!
   - 🎧 Various [audiovisual web experiments](https://www.devon.engineering/playground/) on my website!
-- **Pronouns**: He/They
+- **Pronouns**: They/He
 
 <div>
   <sub>Connect with me!</sub>
@@ -30,10 +30,10 @@ My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor
 <div>
   <sub>Focusing on...</sub>
   <div>
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   </div>
 </div>
 <div>
@@ -75,6 +75,4 @@ My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor
     <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v3/open-source.png?v=103" />
   </a>
 </div>
-
-  - 🕶️ Web application pentesting!
 -->
