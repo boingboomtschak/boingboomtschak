@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-My name is Devon, and I'm a 21 year-old Computer Science major, Studio Art minor based in Seattle, WA.
+My name is Devon, and I'm a 22 year-old Computer Science major, Studio Art minor based in Seattle, WA.
 
 - **Currently learning about**:
   - 🖥️ Computer graphics with OpenGL
