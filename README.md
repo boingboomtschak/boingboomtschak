@@ -1,14 +1,11 @@
 ## Hey! 👋
 
-My name is Devon, and I'm a 22 year-old Computer Science major, Studio Art minor based in Seattle, WA.
+My name is Devon, and I'm a 22 year-old MS candidate in Computer Science and Engineering based out of Santa Cruz, CA.
 
 - **Currently learning about**:
-  - 💡 Cross-platform computer graphics exploration with OpenGL and Vulkan!
+  - 💡 Cross-platform computer graphics exploration with OpenGL, Vulkan, C++, and Rust!
   - 🖥️ GPU compute with OpenGL / Vulkan compute and CUDA!
-  - 🧫 Application of computer vision techniques for biophysics research!
 - **Working on**: 
-  - 🔬 Research [@TabLabSU](https://github.com/tablabsu)!
-  - 🎓 Teaching assistantship on a Languages and Computation class [@SeattleU](https://www.seattleu.edu/)!
   - 🎧 Various [audiovisual web experiments](https://www.devon.engineering/playground/) on my website!
 - **Pronouns**: They/He
 
