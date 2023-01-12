@@ -43,8 +43,8 @@ My name is Devon, and I'm a 22 year-old MS student in Computer Science and Engin
 </div>
 <br />
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=boingboomtschak&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boingboomtschak&layout=compact&langs_count=10&exclude_repo=boingboomtschak.github.io,resume,computer-graphics&hide=TypeScript,SCSS,CSS,HTML,Batchfile,Shell,Makefile,Lex)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=boingboomtschak&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=boingboomtschak&layout=compact&langs_count=10&exclude_repo=boingboomtschak.github.io,resume,computer-graphics&hide=TypeScript,SCSS,CSS,HTML,Batchfile,Shell,Makefile,Lex)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=boingboomtschak)](https://git.io/streak-stats)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dev142gold&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
