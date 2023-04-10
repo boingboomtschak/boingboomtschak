@@ -7,7 +7,7 @@ My name is Devon, and I'm a 23 year-old MS student in Computer Science and Engin
   - 🖥️ GPU compute with OpenGL / Vulkan compute and CUDA!
 - **Working on**: 
   - 🎧 Various [audiovisual web experiments](https://www.devon.engineering/playground/) on my website!
-- **Pronouns**: They/He
+- **Pronouns**: they/them
 
 <div>
   <sub>Connect with me!</sub>
