@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-My name is Devon, and I'm a 23 year-old MS student in Computer Science and Engineering based out of Santa Cruz, CA.
+My name is Devon, and I'm a 23 year-old PhD student in Computer Science and Engineering based out of Santa Cruz, CA.
 
 - **Currently learning about**:
   - 💡 Cross-platform computer graphics exploration with OpenGL, Vulkan, C++, and Rust!
