@@ -1,12 +1,12 @@
 ## Hey! 👋
 
-My name is Devon, and I'm a 24 year-old PhD student in Computer Science and Engineering based out of Santa Cruz, CA.
+My name is Devon, and I'm a 24 year-old PhD student in Computer Science and Engineering at UC Santa Cruz under Tyler Sorensen.
 
-- **Currently learning about**:
-  - 💡 Cross-platform computer graphics exploration with OpenGL, Vulkan, C++, and Rust!
-  - 🖥️ GPU compute with OpenGL / Vulkan compute and CUDA!
-- **Working on**: 
-  - 🎧 Various [audiovisual web experiments](https://www.devon.engineering/playground/) on my website!
+- **Working on**:
+  - Publications on performance modeling of GPU synchronization objects
+  - Grants for future projects
+  - Compiler tooling for parallel programming teaching tools
+  - Various things on my website(s), semi updated
 - **Pronouns**: they/them
 
 <div>
@@ -24,12 +24,13 @@ My name is Devon, and I'm a 24 year-old PhD student in Computer Science and Engi
   </div>
 </div>
 <div>
-  <sub>Focusing on...</sub>
+  <sub>Working with...</sub>
   <div>
     <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
     <img alt="Vulkan" src="https://img.shields.io/badge/-Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white" />
-    <img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
+    <img alt="WebGPU" src="https://img.shields.io/badge/-WebGPU-005797?style=flat-square&logo=google-chrome&logoColor=white" />
     <img alt="CUDA" src="https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+    <img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
     <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   </div>
 </div>
@@ -37,8 +38,8 @@ My name is Devon, and I'm a 24 year-old PhD student in Computer Science and Engi
   <sub>Compiling on...</sub>
   <div>
     <img alt="AMD Ryzen 7 3800X" src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=flat-square&logo=amd&logoColor=white" />
-    <img alt="Nvidia GeForce RTX2080 Super" src="https://img.shields.io/badge/NVIDIA-RTX%202080%20S-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-    <img alt="M1 Pro" src="https://img.shields.io/badge/Apple-M1%20Pro-000000?style=flat-square&logo=apple&logoColor=white" />
+    <img alt="Nvidia GeForce RTX 2080 Super" src="https://img.shields.io/badge/NVIDIA-RTX%202080%20S-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+    <img alt="M3 Pro" src="https://img.shields.io/badge/Apple-M1%20Pro-000000?style=flat-square&logo=apple&logoColor=white" />
   </div>
 </div>
 <br />
