@@ -47,6 +47,6 @@ My name is Devon, and I'm a 24 year-old PhD student in Computer Science and Engi
 [![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=boingboomtschak&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=boingboomtschak&layout=compact&langs_count=10&exclude_repo=boingboomtschak.github.io,resume,computer-graphics&hide=TypeScript,SCSS,CSS,HTML,Batchfile,Shell,Makefile,Lex)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=boingboomtschak)](https://git.io/streak-stats)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dev142gold&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dev142gold&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![](https://hit.yhype.me/github/profile?user_id=36770835)
