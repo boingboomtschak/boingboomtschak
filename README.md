@@ -1,13 +1,11 @@
 ## Hey! 👋
 
-My name is Devon, and I'm a 24 year-old PhD student in Computer Science and Engineering at UC Santa Cruz under Tyler Sorensen.
+My name is Devon, and I'm a 25 year-old PhD student in Computer Science and Engineering at UC Santa Cruz under Tyler Sorensen.
 
 - **Working on**:
-  - Publications on performance modeling of GPU synchronization objects
-  - Grants for future projects
-  - Compiler tooling for parallel programming teaching tools
+  - PhD work :)
   - Various things on my website(s), semi updated
-- **Pronouns**: they/them
+- **Pronouns**: they/she
 
 <div>
   <sub>Connect with me!</sub>
