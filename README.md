@@ -16,9 +16,6 @@ My name is Devon, and I'm a 25 year-old PhD student in Computer Science and Engi
     <a href="https://devon.engineering">
       <img alt="Website Badge" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
     </a>
-    <a href="https://instagram.com/d.m.c.k.e.e/">
-      <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" />
-    </a>
   </div>
 </div>
 <div>
