@@ -34,7 +34,7 @@ My name is Devon, and I'm a 25 year-old PhD student in Computer Science and Engi
   <div>
     <img alt="AMD Ryzen 7 3800X" src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=flat-square&logo=amd&logoColor=white" />
     <img alt="Nvidia GeForce RTX 2080 Super" src="https://img.shields.io/badge/NVIDIA-RTX%202080%20S-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-    <img alt="M3 Pro" src="https://img.shields.io/badge/Apple-M1%20Pro-000000?style=flat-square&logo=apple&logoColor=white" />
+    <img alt="M3 Pro" src="https://img.shields.io/badge/Apple-M3%20Pro-000000?style=flat-square&logo=apple&logoColor=white" />
   </div>
 </div>
 <br />
