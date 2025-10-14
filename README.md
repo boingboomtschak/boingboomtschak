@@ -3,9 +3,9 @@
 My name is Devon, and I'm a 25 year-old PhD student in Computer Science and Engineering at UC Santa Cruz under Tyler Sorensen.
 
 - **Working on**:
-  - PhD work :)
+  - GPUs :)
   - Various things on my website(s), semi updated
-- **Pronouns**: they/she
+- **Pronouns**: she/her
 
 <div>
   <sub>Connect with me!</sub>
